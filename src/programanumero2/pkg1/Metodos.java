@@ -2,7 +2,6 @@ package programanumero2.pkg1;
 
 import java.util.Queue;
 import java.util.LinkedList;
-
 public class Metodos {
 
     Queue<String> cola = new LinkedList<>();
